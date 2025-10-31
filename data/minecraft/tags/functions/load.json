@@ -1,6 +1,5 @@
 {
 	"values": [
-    "its_raining:remove",
-    "its_raining:setup"
+        "its_raining:load"
 	]
 }
