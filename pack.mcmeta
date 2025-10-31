@@ -1,10 +1,10 @@
 {
 	"pack": {
 		"pack_format": 15,
-		"min_format": 6,
+		"min_format": 8,
 		"max_format": 26,
 		"supported_formats": {
-			"min_inclusive": 6,
+			"min_inclusive": 8,
 			"max_inclusive": 26
 		},
 		"description": "Unstoppable rain... UNSTOPPABLE FLOOD."
