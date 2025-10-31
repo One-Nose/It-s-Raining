@@ -1,0 +1,8 @@
+{
+	"values": [
+    "its_raining:tick",
+    "its_raining:start_drop",
+    "its_raining:display_info",
+    "its_raining:advance"
+	]
+}
